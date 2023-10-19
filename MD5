@@ -1,0 +1,8 @@
+52b8354057c6a182bbff174df2b3b4bf *DESCRIPTION
+9b719a736cecb54dbacc25b33b68bd6d *NAMESPACE
+872b60133494525fb8528826da36f983 *R/qcreg.R
+18a12572256bc19789f817eaf2a7dd6c *data/Democratization.rda
+e793c03af41e4c6a888adaae24ec6528 *data/Poverty.rda
+e6ef9722b7d881bb7e31b4b98229c4f1 *man/Democratization.Rd
+9cd221194616adf919fd7a7c7122960b *man/Poverty.Rd
+f7fb7cb5ee91461c86ccb122346a14f1 *man/qcreg.Rd
